@@ -1,5 +1,5 @@
-
->addindex hoge3
+﻿
+>addindex
 [Handlebars templates](index2.html)
 
 # Welcome to StackEdit!
