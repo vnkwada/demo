@@ -1971,3 +1971,9 @@ img {
     padding-right: 0;
     max-width: none
 }
+
+.positioned {
+    position: fixed;
+    top: 30px;
+    left: 30px;
+}
